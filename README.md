@@ -29,8 +29,11 @@ Newbagalur Layout UPHC C 1:  560084
 {'session_id': 'e3a84bd2-8785-42ab-8ffc-287f5d6231c3', 'date': '08-05-2021', 'available_capacity': 1, 'min_age_limit': 18, 'vaccine': 'COVAXIN', 'slots': ['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']}
 ```
 
+There is immense scope of improvement here . If you guys have any ideas or any doubts feel free to reach out to me on - abhishek.sarkar698@gmail.com
 ## Note
 
 If you encounter too many - 
 `Unauthenticated access!`
 please update the authorization header with a new one.
+
+
