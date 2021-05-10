@@ -1,5 +1,5 @@
 # Co-Win
-Hey guys, the pandemic has been hard on all of us and we all thought when the vaccine will be out we will be back to life as usual. Boy were we wrong 😩 .
+Hey guys, the pandemic has been hard on all of us and we all thought when the vaccines will come out our lives will return to normal. Boy were we wrong 😩 .
 
 Now that the vaccines are out getting an appointment is like winning a lottery escpecially for the age group 18-45.
 
