@@ -12,12 +12,12 @@ So to help you guys out i wrote a mini script that informs you when an appointme
 
  ## Prerequisites for running the script - 
   1. A MacOS device . The srcipt was written for a Mac (will be updating the script to work on Windows as well)
-  2. Python3 and some understandng of coding in python (this will help you tweak the program according to your needs)
+  2. Python3 or Python2 and some understandng of coding in python (this will help you tweak the program according to your needs)
  
 ## Steps to run the script - 
   1. Open Terminal
   2. Go to the folder with the directory name - Co-Win
-  3. Now run the script cowin.py as follows - `python3 cowin.py`
+  3. Now run the script cowin.py as follows if you want to use python3 -<br> ```python3 cowin.py```<br> if you have python2 use -<br> `python2 cowin_v2_python2.py`
   
 That's it folks.
 Once the scipt encounters an availble appointment you will get an automated voice notification with the message - <b>'Appointment found please check'</b>
